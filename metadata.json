@@ -1,0 +1,6 @@
+{
+  "name": "FeeFlow",
+  "description": "iOS 16/26 Liquid Glass Tuition Fees Tracker with Dynamic Island, bulk Excel/CSV import, and smart payment workflows for teachers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
